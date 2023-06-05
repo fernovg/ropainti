@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { InicioComponent } from './provocame/pages/inicio/inicio.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,8 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
+    AppRoutingModule,
+    InicioComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]

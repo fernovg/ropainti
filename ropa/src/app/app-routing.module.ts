@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-
+import { InicioComponent } from './provocame/pages/inicio/inicio.component';
 
 
 const routes: Routes = [
@@ -9,11 +9,11 @@ const routes: Routes = [
   //   path: 'auth',
   //   loadChildren: () => import('./auth/auth.module').then(m => m.AuthModule),
   // },
-  // {
-  //   path: 'inicio',
-  //   component: InicioComponent,
-  //   pathMatch: 'full'
-  // },
+  {
+    path: 'inicio',
+    component: InicioComponent,
+    pathMatch: 'full'
+  },
   // {
   //   path: 'aviso_privacidad',
   //   component: AvisoprivComponent
@@ -22,10 +22,10 @@ const routes: Routes = [
   //   path: '404',
   //   component: ErrorPageComponent
   // },
-  // {
-  //   path: '',
-  //   component: InicioComponent
-  // },
+  {
+    path: '',
+    component: InicioComponent
+  }
   // {
   //   path: '**',
   //   redirectTo: '404'
