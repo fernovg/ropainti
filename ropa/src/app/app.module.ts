@@ -13,8 +13,7 @@ import { InicioComponent } from './provocame/pages/inicio/inicio.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    InicioComponent,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

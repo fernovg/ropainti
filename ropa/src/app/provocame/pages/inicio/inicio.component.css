@@ -1,0 +1,131 @@
+/* navbar */
+.logo-img {
+    width: 90px; /* Ajusta el tamaño del logotipo según tus necesidades */
+    margin-right: 10px; /* Agrega un margen derecho para separar el logotipo del texto */
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 10px 15px; /* Ajusta el relleno de los enlaces según tus necesidades */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Cambia el color de fondo al pasar el cursor por encima */
+  }
+
+/* banner */
+.banner {
+    padding: 40px 0; /* Ajusta el espacio interno del banner según tus necesidades */
+    background-color: #f8f9fa; /* Cambia el color de fondo del banner según tus preferencias */
+  }
+  
+  .banner-title {
+    font-size: 32px; /* Ajusta el tamaño del título del banner según tus necesidades */
+    margin-bottom: 20px; /* Agrega un margen inferior al título del banner */
+  }
+  
+  .banner-text {
+    margin-bottom: 30px; /* Agrega un margen inferior al texto del banner */
+  }
+  
+  .banner-image {
+    width: 100%; /* Ajusta el ancho de la imagen del banner según tus necesidades */
+  }
+  
+  
+
+/* productos destacdos */
+.featured-products {
+    padding: 40px 0; /* Ajusta el espacio interno de la sección según tus necesidades */
+    background-color: #f8f9fa; /* Cambia el color de fondo de la sección según tus preferencias */
+  }
+  
+  .section-title {
+    text-align: center; /* Centra el título de la sección */
+    margin-bottom: 30px; /* Agrega un margen inferior al título */
+  }
+  
+  .product-card {
+    text-align: center; /* Centra el contenido del producto */
+    padding: 20px; /* Ajusta el espacio interno del producto según tus necesidades */
+    background-color: #fff; /* Cambia el color de fondo del producto según tus preferencias */
+    border-radius: 5px; /* Agrega bordes redondeados al producto */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Agrega una sombra al producto */
+    margin-bottom: 30px; /* Agrega un margen inferior al producto */
+  }
+  
+  .product-image {
+    width: 100%; /* Ajusta el tamaño de la imagen del producto según tus necesidades */
+    margin-bottom: 20px; /* Agrega un margen inferior a la imagen del producto */
+  }
+  
+  .product-name {
+    margin-bottom: 10px; /* Agrega un margen inferior al nombre del producto */
+  }
+  
+  .product-price {
+    font-weight: bold; /* Aplica negrita al precio del producto */
+    margin-bottom: 10px; /* Agrega un margen inferior al precio del producto */
+  }
+  
+  
+
+/* productos recomendados */
+.recommended-products {
+    padding: 40px 0; /* Ajusta el espacio interno de la sección según tus necesidades */
+    background-color: #f8f9fa; /* Cambia el color de fondo de la sección según tus preferencias */
+  }
+  
+  .section-title {
+    text-align: center; /* Centra el título de la sección */
+    margin-bottom: 30px; /* Agrega un margen inferior al título */
+  }
+  
+  .product-card {
+    text-align: center; /* Centra el contenido del producto */
+    padding: 20px; /* Ajusta el espacio interno del producto según tus necesidades */
+    background-color: #fff; /* Cambia el color de fondo del producto según tus preferencias */
+    border-radius: 5px; /* Agrega bordes redondeados al producto */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Agrega una sombra al producto */
+    margin-bottom: 30px; /* Agrega un margen inferior al producto */
+  }
+  
+  .product-image {
+    width: 100%; /* Ajusta el tamaño de la imagen del producto según tus necesidades */
+    margin-bottom: 20px; /* Agrega un margen inferior a la imagen del producto */
+  }
+  
+  .product-name {
+    margin-bottom: 10px; /* Agrega un margen inferior al nombre del producto */
+  }
+  
+  .product-price {
+    font-weight: bold; /* Aplica negrita al precio del producto */
+    margin-bottom: 10px; /* Agrega un margen inferior al precio del producto */
+  }
+  
+  
+
+/* footer */
+.footer {
+    background-color: #f8f9fa; /* Cambia el color de fondo del footer según tus preferencias */
+    padding: 20px 0; /* Ajusta el espacio interno del footer según tus necesidades */
+    color: #333; /* Cambia el color del texto según tus preferencias */
+  }
+  
+  .footer h5 {
+    margin-bottom: 10px; /* Agrega un margen inferior a los títulos */
+  }
+  
+  .footer p {
+    margin-bottom: 5px; /* Agrega un margen inferior a los párrafos */
+  }
+  
+  .social-media li {
+    display: inline-block; /* Muestra los íconos de redes sociales en línea */
+    margin-right: 10px; /* Agrega un margen derecho entre los íconos */
+  }
+  
+  .footer .text-center {
+    margin-top: 20px; /* Agrega un margen superior al texto centrado */
+  }
+  
